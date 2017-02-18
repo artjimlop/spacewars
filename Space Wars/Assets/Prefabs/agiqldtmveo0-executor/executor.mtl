@@ -1,0 +1,198 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.12.2015 23:50:21
+
+newmtl ABC
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 0.1569 0.1451 0.2392
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__17_Composite.tga
+	map_Kd Map__17_Composite.tga
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl TXTPRIM01
+	Ns 41.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.4600 0.4600 0.4600
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__29_Mix.tga
+	map_Kd Map__29_Mix.tga
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl CHROME_PEARL2
+	Ns 59.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3608 0.3608 0.3608
+	Ks 0.8000 0.8000 0.8000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__26_Mix.tga
+	map_Kd Map__26_Mix.tga
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl R_MOS
+	Ns 85.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9725 0.9725 0.9725
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.7000 0.0000 0.0000
+	Ke 0.7500 0.7500 0.7500
+
+newmtl Default
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7000 0.7000 0.7000
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.7070 0.7070 0.7070
+	Ke 0.0000 0.0000 0.0000
+
+newmtl STARDEST_H1_WIN3
+	Ns 26.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.4300 0.4300 0.4300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__32_Mix.tga
+	map_Kd Map__32_Mix.tga
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl STARDEST_HULLM
+	Ns 31.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6118 0.6118 0.6118
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.5400 0.5400 0.5400
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__13_Mix.tga
+	map_Kd Map__13_Mix.tga
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl STARDEST_H1_WIN2
+	Ns 26.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.4300 0.4300 0.4300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__8_Mix.tga
+	map_Kd Map__8_Mix.tga
+	map_Ke Map__10_Mask.tga
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl STARDEST_H1FGP
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__4_Mix.tga
+	map_Kd Map__4_Mix.tga
+	map_Ke C:\Documents and Settings\glenn\Desktop\LIGHTS.GIF
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl STARDEST_SIDELL
+	Ns 41.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.4600 0.4600 0.4600
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__1_Mix.tga
+	map_Kd Map__1_Mix.tga
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl ENGTXT
+	Ns 38.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5608 0.5608 0.5608
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__22_Composite.tga
+	map_Kd Map__22_Composite.tga
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl BLACK_PLSTC_REF
+	Ns 53.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0157 0.0157 0.0157
+	Kd 0.0157 0.0157 0.0157
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_refl C:\Documents and Settings\glenn\Desktop\REFMAP.GIF
+
+newmtl FLAME
+	Ns 0.0000
+	Ni 1.5000
+	d 0.5300
+	Tr 0.4700
+	Tf 0.5300 0.5300 0.5300 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4471 0.6039 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.4471 0.6039 0.8000
+	map_d C:\Documents and Settings\glenn\Desktop\ENGFLAM.CEL
